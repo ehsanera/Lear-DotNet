@@ -8,6 +8,11 @@ var users = new List<User>
     {
         Id = 1,
         Name = "mohammad javad"
+    },
+    new()
+    {
+        Id = 2,
+        Name = "tiyam"
     }
 };
 
