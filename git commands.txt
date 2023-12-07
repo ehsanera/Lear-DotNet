@@ -1,0 +1,9 @@
+commit
+push
+pull
+init
+add remote
+git status
+git log
+git fetch
+git checkout
