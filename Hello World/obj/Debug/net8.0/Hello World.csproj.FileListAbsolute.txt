@@ -12,3 +12,4 @@ C:\Users\13961469\RiderProjects\Learn DotNet\Hello World\obj\Debug\net8.0\refint
 C:\Users\13961469\RiderProjects\Learn DotNet\Hello World\obj\Debug\net8.0\Hello World.pdb
 C:\Users\13961469\RiderProjects\Learn DotNet\Hello World\obj\Debug\net8.0\Hello World.genruntimeconfig.cache
 C:\Users\13961469\RiderProjects\Learn DotNet\Hello World\obj\Debug\net8.0\ref\Hello World.dll
+C:\Users\13961469\RiderProjects\Learn DotNet\Hello World\obj\Debug\net8.0\Hello World.sourcelink.json
