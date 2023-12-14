@@ -1,6 +1,6 @@
 commit -
 push -
-pull 
+pull -
 init -
 add remote 
 status
