@@ -1,5 +1,5 @@
-commit 
-push
+commit -
+push -
 pull 
 init -
 add remote 
