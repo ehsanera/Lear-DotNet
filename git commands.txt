@@ -5,7 +5,7 @@ init -
 add remote 
 status
 log
-fetch
+fetch -
 checkout -
 clone -
 merge -
