@@ -2,9 +2,9 @@ commit -
 push -
 pull -
 init -
-add remote 
-status
-log
+add remote -
+status -
+log -
 fetch -
 checkout -
 clone -
